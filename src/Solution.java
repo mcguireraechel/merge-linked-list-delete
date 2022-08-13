@@ -10,6 +10,7 @@ public class Solution {
     int x;
     int y;
     int r;
+    int s;
 		return list3;
         
 }
