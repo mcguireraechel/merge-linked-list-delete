@@ -8,7 +8,7 @@ public class Solution {
        System.out.println(curr_node.val);
         
     int x;
-
+    int y;
 		return list3;
         
 }
