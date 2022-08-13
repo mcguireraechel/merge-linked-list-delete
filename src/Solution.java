@@ -9,6 +9,7 @@ public class Solution {
         
     int x;
     int y;
+    int r;
 		return list3;
         
 }
