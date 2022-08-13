@@ -9,6 +9,7 @@ public class Solution {
         
     int x;
     int y;
+    String fuck = "fuck bro";
 		return list3;
         
 }
